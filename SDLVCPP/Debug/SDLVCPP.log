@@ -1,0 +1,3 @@
+﻿  Main.cpp
+f:\documents\visual studio 2015\projects\sdlvcpp\sdlvcpp\main.cpp(95): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+  SDLVCPP.vcxproj -> f:\documents\visual studio 2015\Projects\SDLVCPP\Debug\SDLVCPP.exe
